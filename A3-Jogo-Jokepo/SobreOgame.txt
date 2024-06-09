@@ -1,0 +1,20 @@
+Temos dois modos de jogo em Jokenpo: contra o computador  e Jogador vs Jogador.
+
+No primeiro modo, precisamos de um computador que funcione como servidor (local host). 
+Quando o servidor estiver conectado ao jogo, um segundo computador será o cliente (jogador) e precisará do número de IP do servidor para se conectar. 
+Após a conexão do cliente ao servidor, aparecerão duas opções de modo de jogo. Escolhendo jogar contra a CPU, temos três opções para selecionar:
+ Pedra, Papel e Tesoura. Devemos escrever a opção desejada (sem utilizar números). Assim que enviamos o comando, a CPU também gera sua resposta instantaneamente. 
+ A CPU escolhe sua jogada de forma aleatória a partir de uma lista com as três opções disponíveis.
+
+Após ambas as jogadas serem feitas, o servidor compara as escolhas do jogador e da CPU para determinar o vencedor. As regras são simples:
+
+Pedra vence Tesoura
+Tesoura vence Papel
+Papel vence Pedra
+Se ambas as escolhas forem iguais, o jogo resulta em empate. O resultado da partida é então exibido para o jogador, indicando se ele venceu, perdeu ou empatou contra a CPU.
+
+
+
+No modo Jogador vs Jogador, ambos os jogadores se conectam ao servidor, cada um de seu próprio computador. Ambos inserem suas escolhas de forma alternada e, similarmente ao modo contra a CPU, o servidor compara as escolhas e determina o vencedor, exibindo o resultado para ambos os jogadores.
+
+Dessa forma, o jogo Jokenpo oferece uma experiência divertida e dinâmica, seja jogando contra a máquina ou desafiando um amigo.
