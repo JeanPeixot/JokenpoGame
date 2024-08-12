@@ -1,7 +1,7 @@
 
 🎮 Criando uma Experiência Multijogador em Jokenpô com Java! 🎮
 
-Hoje quero compartilhar algo bem especial com vocês: um projeto de Jokenpô em Java que não só é divertido de jogar, mas também é um excelente exemplo de como criar uma aplicação interativa usando conceitos fundamentais de programação.
+Um projeto de Jokenpô em Java que não só é divertido de jogar, mas também é um excelente exemplo de como criar uma aplicação interativa usando conceitos fundamentais de programação.
 
 🔍 O que estamos fazendo aqui?
 Esse projeto envolve dois códigos principais: um servidor que gerencia o jogo e uma interface de jogador que permite que você entre na partida e interaja diretamente com o jogo. Basicamente, você pode escolher se quer jogar contra o computador ou desafiar um amigo, tudo via rede!
